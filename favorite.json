@@ -7,9 +7,9 @@
                 "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd"
      },{
             "name": "Capital FM",
-            "id": "uk.capitalteess",
+            "id": "uk.capitalteesside",
             "logo": "http://cdn.onlineradiobox.com/img/l/0/73810.v4.png",
-            "streamLink": "https://media-ssl.musicradio.com/CapitalTeess"
+            "streamLink": "https://media-ssl.musicradio.com/CapitalTeesside"
      },{
             "name": "Hot 89.9",
             "id": "ca.ciht",
