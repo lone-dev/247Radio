@@ -1,4 +1,15 @@
-[   {
+[  
+    
+    
+     {
+    
+            "name": "Smooth Radio",
+            "id": "uk.smoothradio1022",
+            "logo": "//cdn.onlineradiobox.com/img/l/4/964.v9.png",
+            "streamLink":
+                "https://media-ssl.musicradio.com/SmoothLondonMP3"
+     },
+    {
     
             "name": "BBC Radio 1",
             "id": "uk.bbcradio1",
@@ -11,6 +22,24 @@
             "logo": "http://cdn.onlineradiobox.com/img/l/0/73810.v4.png",
             "streamLink": "https://media-ssl.musicradio.com/CapitalTeesside"
      },{
+            "name": "BBC Radio London",
+            "id": "uk.bbclondon",
+            "logo": "http://cdn.onlineradiobox.com/img/l/2/1222.v12.png",
+            "streamLink": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_london.mpd"
+     },
+     {
+            "name": "Heart FM",
+            "id": "ca.ciht",
+            "logo": "http//cdn.onlineradiobox.com/img/l/7/1047.v17.png",
+            "streamLink": "https://media-ssl.musicradio.com/HeartUK"
+     },
+    {
+            "name": "Classic FM",
+            "id": "uk.classicfm",
+            "logo": "http://cdn.onlineradiobox.com/img/l/4/1074.v7.png",
+            "streamLink": "https://media-ssl.musicradio.com/ClassicFM"
+     },
+    {
             "name": "Hot 89.9",
             "id": "ca.ciht",
             "logo": "http://cdn.onlineradiobox.com/img/l/1/11721.v4.png",
