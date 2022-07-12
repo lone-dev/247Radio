@@ -1,11 +1,19 @@
 [  
     
+     {
+    
+            "name": ".977 Today39s Hits",
+            "id": "us.977todayshits",
+            "logo": "http://cdn.onlineradiobox.com/img/l/2/6222.v18.png",
+            "streamLink":
+                "https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC?dist=onlineradiobox"
+     },
     
      {
     
             "name": "Smooth Radio",
             "id": "uk.smoothradio1022",
-            "logo": "//cdn.onlineradiobox.com/img/l/4/964.v9.png",
+            "logo": "http://cdn.onlineradiobox.com/img/l/4/964.v9.png",
             "streamLink":
                 "https://media-ssl.musicradio.com/SmoothLondonMP3"
      },
@@ -85,6 +93,13 @@
             "id": "ca.flow103",
             "logo": "http://cdn.onlineradiobox.com/img/l/4/20204.v3.png",
             "streamLink": "https://ais-sa3.cdnstream1.com/1668_128"
+      
+        },
+    {
+            "name": "98,5 FM",
+            "id": "ca.985fm",
+            "logo": "http://cdn.onlineradiobox.com/img/l/7/13627.v20.png",
+            "streamLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.m3u8?dist=onlineradiobox"
       
         }
 ]
