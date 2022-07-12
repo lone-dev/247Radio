@@ -1,0 +1,61 @@
+[   {
+    
+            "name": "BBC Radio 1",
+            "id": "uk.bbcradio1",
+            "logo": "http://cdn.onlineradiobox.com/img/l/3/1193.v15.png",
+            "streamLink":
+                "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd"
+     },{
+            "name": "Capital FM",
+            "id": "uk.capitalteess",
+            "logo": "http://cdn.onlineradiobox.com/img/l/0/73810.v4.png",
+            "streamLink": "https://media-ssl.musicradio.com/CapitalTeess"
+     },{
+            "name": "Hot 89.9",
+            "id": "ca.ciht",
+            "logo": "http://cdn.onlineradiobox.com/img/l/1/11721.v4.png",
+            "streamLink": "https://newcap.leanstream.co/CIHTFM?args=web_01&amp;type=.mp3"
+     },{
+            "name": "Virgin Radio Groove",
+            "id": "uk.virgingroove",
+            "logo": "http://cdn.onlineradiobox.com/img/l/1/92571.v2.png",
+            "streamLink": "https://radio.virginradio.co.uk/stream-groove"
+     },{
+            "name": "KEXP 90.3 FM",
+            "id": "us.kexpfm",
+            "logo": "http://cdn.onlineradiobox.com/img/l/1/6291.v2.png",
+            "streamLink": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
+     },{
+            "name": "KISS FM",
+            "id": "au.kissfmau",
+            "logo": "http://cdn.onlineradiobox.com/img/l/7/907.v6.png",
+            "streamLink": "https://onlineradiobox.com/json/au/kissfmau/play?platform=web"
+     },{
+            "name": "ABC triple j",
+            "id": "au.abctriplej",
+            "logo": "http://cdn.onlineradiobox.com/img/l/1/201.v15.png",
+            "streamLink": "https://abcradiolivehls-lh.akamaihd.net/i/triplejnsw_1@327300/master.m3u8"
+     },{
+            "name": "WHUR-FM",
+            "id": "us.whur",
+            "logo": "http://cdn.onlineradiobox.com/img/l/1/14851.v7.png",
+            "streamLink": "https://whur.streamon.fm/WHUR-48k.aac"
+     },{
+            "name": "Chicago Public Radio - WBEZ 91.5 FM",
+            "id": "us.wbez",
+            "logo": "http://cdn.onlineradiobox.com/img/l/9/6289.v2.png",
+            "streamLink": "https://stream.wbez.org/wbez128.mp3"
+     },{
+            "name": "Metro FM",
+            "id": "za.metrofm",
+            "logo": "http://cdn.onlineradiobox.com/img/l/9/839.v15.png",
+            "streamLink":
+                "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac?dist=onlineradiobox"
+     },{
+            "name": "Flow 103",
+            "id": "ca.flow103",
+            "logo": "http://cdn.onlineradiobox.com/img/l/4/20204.v3.png",
+            "streamLink": "https://ais-sa3.cdnstream1.com/1668_128"
+      
+        }
+]
